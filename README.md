@@ -36,29 +36,29 @@ java Main
 
 
 📌 Estrutura do Projeto
-Book.java – Representação de um livro (título, autor, ISBN, disponibilidade)
+- Book.java – Representação de um livro (título, autor, ISBN, disponibilidade)
 
-User.java – Representa usuário/leitor
+- User.java – Representa usuário/leitor
 
-Library.java – Classe com lógica de gerenciamento (cadastro, empréstimos, devoluções)
+- Library.java – Classe com lógica de gerenciamento (cadastro, empréstimos, devoluções)
 
-Main.java – Interface via console para interagir com a biblioteca
+- Main.java – Interface via console para interagir com a biblioteca
 
 🧠 Funcionalidades
-Registrar novos livros
+- Registrar novos livros
 
-Listar livros disponíveis e emprestados
+- Listar livros disponíveis e emprestados
 
-Efetuar empréstimos e devoluções
+- Efetuar empréstimos e devoluções
 
-Verificar disponibilidade por ISBN
+- Verificar disponibilidade por ISBN
 
 📚 Conceitos Aplicados
-Abstração, herança e encapsulamento na estrutura de classes
+- Abstração, herança e encapsulamento na estrutura de classes
 
-Controle de estado (disponível / emprestado) em objetos
+- Controle de estado (disponível / emprestado) em objetos
 
-Lógica de negócios simulada com fluxos de empréstimo
+- Lógica de negócios simulada com fluxos de empréstimo
 
 🤝 Contribuição
 Projeto desenvolvido para praticar fundamentos de POO e simulação de sistemas simples em Java.
